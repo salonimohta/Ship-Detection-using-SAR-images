@@ -1,8 +1,8 @@
 import csv
 import json
 
-csvfile = open('shipDetections.csv', 'r')
-jsonfile = open('predictions.json', 'w')
+csvfile = open('source/shipDetections.csv', 'r')
+jsonfile = open('source/predictions.json', 'w')
 
 fieldnames = ("ShipDetections","Latitude","Longitude","Detected_width","Detected_length")
 reader = csv.DictReader( csvfile, fieldnames)

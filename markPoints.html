@@ -10,13 +10,21 @@
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
   <div id="map" style="width: 500px; height: 400px;"></div>
   <script type="text/javascript">
-    //var locations = '{ "loc":[ ["Bondi Beach", -33.890542, 151.274856, 4], ["Coogee Beach", -33.923036, 151.259052, 5],["Cronulla Beach", -34.028249, 151.157507, 3], ["Manly Beach", -33.80010128657071, 151.28747820854187, 2], ["Maroubra Beach", -33.950198, 151.259302, 1] ] }';
     var obj;
-    $.getJSON('./predictions.json',function(data){
+    $.getJSON('./source/predictions.json',function(data){
       obj=data;
+      var x_min=obj[0].Latitude,x_max=obj[0].Latitude,y_min=obj[0].Longitude,y_max=obj[0].Longitude;
+      for (var j=0;j<obj.length;j++){
+          if (obj[j].Latitude<x_min) x_min=obj[j].Latitude;
+          else if (obj[j].Latitude>x_max) x_max=obj[j].Latitude;
+          if (obj[j].Longitude<y_min) y_min=obj[j].Longitude;
+          else if (obj[j].Longitude>y_max) y_max=obj[j].Longitude;
+      }
+      var mean_latitude=(Number(x_min)+Number(x_max))/2;
+      var mean_longitude=(Number(y_min)+Number(y_max))/2;
     var map = new google.maps.Map(document.getElementById('map'), {
       zoom: 10,
-      center: new google.maps.LatLng(obj[0].Latitude,obj[0].Longitude),
+      center: new google.maps.LatLng(mean_latitude,mean_longitude),
       mapTypeId: google.maps.MapTypeId.ROADMAP
     });
 
