@@ -35,7 +35,14 @@
     for (i = 0; i < obj.length; i++) {  
       marker = new google.maps.Marker({
         position: new google.maps.LatLng(obj[i].Latitude, obj[i].Longitude),
-        map: map
+        map: map,
+        icon: {
+        path: google.maps.SymbolPath.CIRCLE,
+        scale: 5,
+        fillColor: "#F00",
+        fillOpacity: 0.7,
+        strokeWeight: 0.4
+        } 
       });
 
       google.maps.event.addListener(marker, 'click', (function(marker, i) {
