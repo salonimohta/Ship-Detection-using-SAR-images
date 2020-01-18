@@ -51,3 +51,5 @@ for i in range(imgs_true.shape[0]):
     imageio.imwrite("results/{}_img.png".format(i), img)
     imageio.imwrite("results/{}_pred.png".format(i), img_pred)
     imageio.imwrite("results/{}_true.png".format(i), img_true)
+
+os.system('python csv2json.py')
