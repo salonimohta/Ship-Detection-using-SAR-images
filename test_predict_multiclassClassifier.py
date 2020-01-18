@@ -4,12 +4,12 @@ import numpy as np
 import os
 import scipy.misc
 
-def load_test_data(self):
+def load_test_data(self,location):
     npy_path = "npydata"
     print('-'*30)
     print('loading test images...')
     print('-'*30)
-    imgs_test_merged = np.load(self.npy_path+"/imgs_test.npy")
+    imgs_test_merged = np.load(self.npy_path+"/"+location+"/imgs_test.npy")
     imgs_test = imgs_test_merged[:, :, :, :2]  # first 2 channels, final shape subimg_count x h x w x 2
     labels_test = imgs_test_merged[:, :, :, 2:]  # last 3 channels, final shape subimg_count x h x w x 3
     print('test images loaded.')
@@ -52,4 +52,5 @@ for i in range(imgs_true.shape[0]):
     imageio.imwrite("results/{}_pred.png".format(i), img_pred)
     imageio.imwrite("results/{}_true.png".format(i), img_true)
 
-os.system('python csv2json.py')
+os.system('python image2csv.py')
+os.system('python csv2json.py location')
