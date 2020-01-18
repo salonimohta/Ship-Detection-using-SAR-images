@@ -12,13 +12,13 @@ def frontPage():
 @app.route("/karachi")
 def karachi():
     os.system('python csv2json.py karachi')
-    return render_template('markPoints.html')
+    return render_template('markPointsKarachi.html')
 
 
 @app.route("/kandla")
 def kandla():
     os.system('python csv2json.py kandla')
-    return render_template('markPoints.html')
+    return render_template('markPointsKandla.html')
 
 
 if __name__ == "__main__":

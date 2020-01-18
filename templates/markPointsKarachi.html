@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+  <title>Google Maps Multiple Markers</title>
+  <script src="http://maps.google.com/maps/api/js?sensor=false" type="text/javascript"></script>
+</head>
+
+<body>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+  <div id="map" style="width: 500px; height: 400px;"></div>
+  <script type="text/javascript">
+    var obj;
+    $.getJSON('./static/karachipredictions.json', function (data) {
+      obj = data;
+      var x_min = obj[0].Latitude, x_max = obj[0].Latitude, y_min = obj[0].Longitude, y_max = obj[0].Longitude;
+      for (var j = 0; j < obj.length; j++) {
+        if (obj[j].Latitude < x_min) x_min = obj[j].Latitude;
+        else if (obj[j].Latitude > x_max) x_max = obj[j].Latitude;
+        if (obj[j].Longitude < y_min) y_min = obj[j].Longitude;
+        else if (obj[j].Longitude > y_max) y_max = obj[j].Longitude;
+      }
+      var mean_latitude = (Number(x_min) + Number(x_max)) / 2;
+      var mean_longitude = (Number(y_min) + Number(y_max)) / 2;
+      var map = new google.maps.Map(document.getElementById('map'), {
+        zoom: 10,
+        center: new google.maps.LatLng(mean_latitude, mean_longitude),
+        mapTypeId: google.maps.MapTypeId.ROADMAP
+      });
+
+      var infowindow = new google.maps.InfoWindow();
+
+      var marker, i;
+
+      for (i = 0; i < obj.length; i++) {
+        marker = new google.maps.Marker({
+          position: new google.maps.LatLng(obj[i].Latitude, obj[i].Longitude),
+          map: map,
+          icon: {
+            path: google.maps.SymbolPath.CIRCLE,
+            scale: 5,
+            fillColor: "#F00",
+            fillOpacity: 0.7,
+            strokeWeight: 0.4
+          }
+        });
+
+        google.maps.event.addListener(marker, 'click', (function (marker, i) {
+          return function () {
+            infowindow.setContent(obj[i].Detected_length);
+            infowindow.open(map, marker);
+          }
+        })(marker, i));
+      }
+    });
+  </script>
+</body>
+
+</html>

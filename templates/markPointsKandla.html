@@ -12,7 +12,7 @@
   <div id="map" style="width: 500px; height: 400px;"></div>
   <script type="text/javascript">
     var obj;
-    $.getJSON('../static/predictions.json', function (data) {
+    $.getJSON('./static/kandlapredictions.json', function (data) {
       obj = data;
       var x_min = obj[0].Latitude, x_max = obj[0].Latitude, y_min = obj[0].Longitude, y_max = obj[0].Longitude;
       for (var j = 0; j < obj.length; j++) {

@@ -1,470 +1,469 @@
-#defaultCSS=fill:#aa00ff; fill-opacity:0.5; stroke:#ffffff; stroke-opacity:1.0; stroke-width:1.0; symbol:cross
-ShipDetections	geometry:Point	Detected_x:Integer	Detected_y:Integer	Detected_lat:Double	Detected_lon:Double	Detected_width:Double	Detected_length:Double	style_css:String
-target_000	POINT (7967 322)	7967	322	24.811186508754652	67.987740997149	80.0	80.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_001	POINT (10200 240)	10200	240	24.855768207811884	67.77216116730428	80.0	80.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_002	POINT (13268 194)	13268	194	24.91051026839022	67.47453958126076	150.0	110.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_003	POINT (13218 258)	13218	258	24.903873938171806	67.47822658661545	70.0	80.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_004	POINT (15371 229)	15371	229	24.941687396472187	67.26909382443597	80.0	90.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_005	POINT (15960 135)	15960	135	24.95970502729916	67.21346929088574	70.0	70.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_006	POINT (15967 217)	15967	217	24.952432101205197	67.21125407156842	40.0	10.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_007	POINT (15955 260)	15955	260	24.94830680333713	67.21168415546519	110.0	80.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_008	POINT (16200 245)	16200	245	24.953630642428283	67.18808988885638	50.0	60.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_009	POINT (16032 329)	16032	329	24.943385941801246	67.20289498934615	100.0	110.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_010	POINT (16016 339)	16016	339	24.94221672031368	67.20432117251774	90.0	90.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_011	POINT (16693 205)	16693	205	24.965235582025052	67.140738991859	40.0	40.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_012	POINT (16769 23)	16769	23	24.982872136295708	67.13661754387068	80.0	80.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_013	POINT (16772 166)	16772	166	24.97002621576621	67.13374439051428	60.0	60.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_014	POINT (16940 183)	16940	183	24.97119451734426	67.11711465013272	70.0	60.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_015	POINT (17254 84)	17254	84	24.985184693772005	67.08829836684748	50.0	20.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_016	POINT (17131 221)	17131	221	24.970856392238858	67.09776811281942	60.0	60.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_017	POINT (17808 115)	17808	115	24.991323336417327	67.03374968492119	30.0	40.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_018	POINT (17771 316)	17771	316	24.972649152123115	67.03375191201474	30.0	30.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_019	POINT (18510 4)	18510	4	25.012613773884592	66.96726316017292	80.0	20.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_020	POINT (18641 196)	18641	196	24.99740560606853	66.95105336874202	40.0	40.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_021	POINT (19328 23)	19328	23	25.02401674457533	66.8871756127654	60.0	60.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_022	POINT (19220 185)	19220	185	25.007731604427747	66.89482144298603	80.0	90.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_023	POINT (19089 248)	19089	248	24.99994240605532	66.90651296478777	130.0	110.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_024	POINT (19173 344)	19173	344	24.992598705960944	66.89655193101224	60.0	60.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_025	POINT (19103 359)	19103	359	24.990115278050617	66.90315492989781	70.0	60.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_026	POINT (21327 301)	21327	301	25.03080192624494	66.68727268063101	160.0	180.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_027	POINT (19369 155)	19369	155	25.012808758142103	66.88087724116076	70.0	70.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_028	POINT (19660 354)	19660	354	24.999469962648476	66.84894084827536	50.0	40.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_029	POINT (19953 18)	19953	18	25.034480662856833	66.82636744641817	30.0	30.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_030	POINT (19762 142)	19762	142	25.020208982489663	66.84277549842393	210.0	220.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_031	POINT (19754 149)	19754	149	25.01950332196343	66.84339099185988	60.0	50.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_032	POINT (5152 661)	5152	661	24.73328284078963	68.2548492263015	60.0	60.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_033	POINT (9919 387)	9919	387	24.83782886627624	67.79681049039272	50.0	40.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_034	POINT (9964 672)	9964	672	24.8129172275233	67.78711329705058	120.0	110.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_035	POINT (15428 485)	15428	485	24.919473853349558	67.25893739534266	50.0	40.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_036	POINT (15623 656)	15623	656	24.907267479162513	67.23680578082781	20.0	30.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_037	POINT (15648 408)	15648	408	24.929984076671968	67.23890637640808	70.0	60.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_038	POINT (15641 453)	15641	453	24.925857619995792	67.2387814968718	50.0	50.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_039	POINT (15692 566)	15692	566	24.916457155031782	67.23170848182028	60.0	60.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_040	POINT (15623 656)	15623	656	24.907267479162513	67.23680578082781	20.0	30.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_041	POINT (15790 696)	15790	696	24.90635971873758	67.21986689826453	70.0	70.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_042	POINT (16192 374)	16192	374	24.941876532519455	67.18648704037554	40.0	20.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_043	POINT (16179 386)	16179	386	24.94062879131518	67.18754524286184	140.0	90.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_044	POINT (16257 396)	16257	396	24.940938246479593	67.17980672935114	70.0	60.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_045	POINT (16261 572)	16261	572	24.925177520348957	67.17624341768338	70.0	70.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_046	POINT (16356 627)	16356	627	24.921713009789315	67.16598822946506	50.0	60.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_047	POINT (16415 435)	16415	435	24.94002780422203	67.16372157560917	70.0	70.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_048	POINT (16855 369)	16855	369	24.953060344219814	67.12199355149448	60.0	60.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_049	POINT (16848 503)	16848	503	24.940901780087344	67.12031575671826	50.0	10.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_050	POINT (16774 579)	16774	579	24.932855324469298	67.12615373943513	70.0	70.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_051	POINT (17301 664)	17301	664	24.933646421547042	67.07327316459688	70.0	80.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_052	POINT (18199 604)	18199	604	24.95357469798273	66.98682541849531	40.0	50.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_053	POINT (18658 413)	18658	413	24.97810684259666	66.94555860350256	30.0	40.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_054	POINT (18842 484)	18842	484	24.97466643515013	66.92630679661409	80.0	60.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_055	POINT (18935 516)	18935	516	24.97327388836608	66.91667111565009	60.0	60.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_056	POINT (18610 674)	18610	674	24.95385133834484	66.94557021515416	90.0	90.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_057	POINT (18799 701)	18799	701	24.954458319384198	66.92662197741578	60.0	70.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_058	POINT (19340 413)	19340	413	24.989087632669463	66.87909701639549	30.0	50.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_059	POINT (19309 579)	19309	579	24.973583018041325	66.87914517284428	90.0	60.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_060	POINT (19899 644)	19899	644	24.977196988935674	66.82042991454664	60.0	50.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_061	POINT (20336 440)	20336	440	25.0025179988317	66.78145009981574	60.0	80.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_062	POINT (5063 753)	5063	753	24.72346526230157	68.26180155609443	30.0	40.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_063	POINT (8454 1084)	8454	1084	24.750553866799358	67.92624710051889	70.0	60.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_064	POINT (9843 734)	9843	734	24.805304521590596	67.79777518742982	30.0	30.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_065	POINT (10034 863)	10034	863	24.796840171489695	67.77681775908046	70.0	70.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_066	POINT (13315 975)	13315	975	24.840799031023515	67.45561841695334	100.0	100.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_067	POINT (13277 1033)	13277	1033	24.834937074823703	67.45830287891066	90.0	140.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_068	POINT (13265 1038)	13265	1038	24.834297746919667	67.45933018506932	60.0	60.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_069	POINT (13482 931)	13482	931	24.847547722364215	67.44018436489316	20.0	30.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_070	POINT (13613 990)	13613	990	24.844363400380498	67.42640939387896	50.0	50.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_071	POINT (13754 1039)	13754	1039	24.842207992227696	67.41178756061198	30.0	20.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_072	POINT (13539 1069)	13539	1069	24.83603424030703	67.43211626522825	60.0	70.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_073	POINT (13966 864)	13966	864	24.86150880457481	67.39436504306687	30.0	30.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_074	POINT (13964 1016)	13964	1016	24.847774992394402	67.39173759724365	60.0	30.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_075	POINT (14067 1043)	14067	1043	24.846981593368145	67.38121538817964	40.0	40.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_076	POINT (14345 936)	14345	936	24.861202810454714	67.35616952882997	70.0	70.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_077	POINT (14462 973)	14462	973	24.85973531818047	67.34405080324262	60.0	60.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_078	POINT (14574 999)	14574	999	24.85925237842148	67.33273505079349	90.0	90.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_079	POINT (15120 921)	15120	921	24.87514672646397	67.2809563862412	80.0	80.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_080	POINT (15220 980)	15220	980	24.87149230401429	67.27021012205694	50.0	50.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_081	POINT (15691 772)	15691	772	24.897901052424785	67.22813006168016	70.0	70.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_082	POINT (16301 854)	16301	854	24.900359987836815	67.16719131598232	80.0	80.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_083	POINT (16732 773)	16732	773	24.914647841525706	67.12668592814485	80.0	80.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_084	POINT (16554 943)	16554	943	24.89642876594379	67.14099814746247	110.0	100.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_085	POINT (16844 918)	16844	918	24.903371897828222	67.11320900723003	30.0	40.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_086	POINT (16918 977)	16918	977	24.89929080473091	67.10494658177913	70.0	70.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_087	POINT (16760 1091)	16760	1091	24.886417385235703	67.11826790548432	70.0	80.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_088	POINT (17167 796)	17167	796	24.919582946767814	67.0839483558784	90.0	80.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_089	POINT (17377 948)	17377	948	24.909273454270373	67.06070825709311	60.0	60.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_090	POINT (17220 1032)	17220	1032	24.899211768260265	67.07449488261517	80.0	90.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_091	POINT (17828 1035)	17828	1035	24.908705094428182	67.01522044758418	20.0	40.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_092	POINT (17806 1049)	17806	1049	24.907079833121617	67.01716006912146	30.0	60.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_093	POINT (18149 1019)	18149	1019	24.915303233126185	66.98428992290685	50.0	60.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_094	POINT (17991 1063)	17991	1063	24.90880007018701	66.99889152391279	70.0	60.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_095	POINT (18496 948)	18496	948	24.927319166923617	66.95176797249748	50.0	50.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_096	POINT (18326 956)	18326	956	24.923824224167785	66.96817710579528	50.0	60.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_097	POINT (18952 1001)	18952	1001	24.929868240309006	66.90634717275917	60.0	70.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_098	POINT (20750 807)	20750	807	24.976029680885926	66.73456374139023	180.0	200.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_099	POINT (3125 1160)	3125	1160	24.65384804023801	68.44211912861245	40.0	20.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_100	POINT (3118 1169)	3118	1169	24.652953167794795	68.44268503204918	30.0	30.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_101	POINT (3122 1175)	3122	1175	24.65247970934196	68.44218284345966	30.0	30.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_102	POINT (13750 1164)	13750	1164	24.83091334057753	67.40990308539466	70.0	70.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_103	POINT (13684 1225)	13684	1225	24.824338697210486	67.41516044478226	80.0	110.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_104	POINT (13642 1282)	13642	1282	24.818501500456264	67.4182531284613	50.0	70.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_105	POINT (13722 1354)	13722	1354	24.813317865301023	67.40915666148454	70.0	90.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_106	POINT (13684 1417)	13684	1417	24.807021379909553	67.41165320159561	40.0	30.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_107	POINT (14389 1164)	14389	1164	24.841311514355912	67.34772491370788	110.0	200.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_108	POINT (14399 1172)	14399	1172	24.840761109860676	67.3465574375824	80.0	180.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_109	POINT (14199 1231)	14199	1231	24.832172478178833	67.3649925152128	70.0	80.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_110	POINT (14484 1387)	14484	1387	24.82274760064384	67.33441985265578	30.0	20.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_111	POINT (14680 1115)	14680	1115	24.850517934564905	67.32030829310277	70.0	70.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_112	POINT (14843 1315)	14843	1315	24.83514513111277	67.3007607563637	60.0	50.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_113	POINT (14758 1340)	14758	1340	24.831497055613703	67.30862513872762	50.0	70.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_114	POINT (14126 1137)	14126	1137	24.839460807064366	67.3738098125102	50.0	60.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_115	POINT (14035 1170)	14035	1170	24.835040042352066	67.38206972188742	30.0	30.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_116	POINT (14099 1200)	14099	1200	24.833382520141093	67.37529695172795	30.0	50.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_117	POINT (14990 1304)	14990	1304	24.83848776569295	67.28664852115219	20.0	40.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_118	POINT (14934 1349)	14934	1349	24.833516796475774	67.2912793657308	60.0	60.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_119	POINT (14928 1358)	14928	1358	24.83265243797565	67.29170863857088	100.0	90.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_120	POINT (15455 1194)	15455	1194	24.856026416647126	67.24340632054788	60.0	50.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_121	POINT (15296 1219)	15296	1219	24.851140192806454	67.25841751347296	60.0	60.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_122	POINT (15603 1239)	15603	1239	24.854323349844243	67.22817440720368	20.0	40.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_123	POINT (15439 1295)	15439	1295	24.846650541552858	67.24318017029074	70.0	70.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_124	POINT (15443 1306)	15443	1306	24.84572342069755	67.24259126297008	50.0	90.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_125	POINT (15449 1310)	15449	1310	24.84546000399702	67.24193467881503	50.0	70.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_126	POINT (15446 1315)	15446	1315	24.844915354195507	67.24212690977687	50.0	20.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_127	POINT (15561 1344)	15561	1344	24.84421840034668	67.23036781581204	20.0	30.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_128	POINT (15352 1442)	15352	1442	24.83197918972397	67.24897907296133	70.0	70.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_129	POINT (15891 1111)	15891	1111	24.870528535037923	67.20250685160956	50.0	40.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_130	POINT (15834 1452)	15834	1452	24.838898669851638	67.20188800889206	110.0	90.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_131	POINT (17594 1201)	17594	1201	24.889999817301113	67.03508099123631	50.0	50.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_132	POINT (16535 1182)	16535	1182	24.874569612223635	67.13853062951121	50.0	40.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_133	POINT (16760 1091)	16760	1091	24.886417385235703	67.11826790548432	70.0	80.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_134	POINT (16768 1095)	16768	1095	24.886230858489927	67.11742567531837	70.0	70.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_135	POINT (16777 1169)	16777	1169	24.87970348990866	67.11521375431663	50.0	50.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_136	POINT (16857 1195)	16857	1195	24.8786047328952	67.10694549190923	70.0	80.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_137	POINT (16857 1294)	16857	1294	24.869723061443977	67.10516844878754	70.0	70.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_138	POINT (17317 1198)	17317	1198	24.885809166882957	67.06205916415885	60.0	70.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_139	POINT (17239 1270)	17239	1270	24.878005564873824	67.06839719002636	50.0	40.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_140	POINT (17153 1404)	17153	1404	24.864543658491993	67.07430775029161	120.0	100.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_141	POINT (17167 1414)	17167	1414	24.863904908169044	67.0728222222115	70.0	70.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_142	POINT (17338 1428)	17338	1428	24.86540991298397	67.05587306881917	80.0	70.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_143	POINT (18143 1111)	18143	1111	24.9069203173455	66.98317466121811	40.0	20.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_144	POINT (17960 1119)	17960	1119	24.90325309040173	67.00090547843199	30.0	40.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_145	POINT (17965 1126)	17965	1126	24.90271062754141	67.0002441475595	80.0	80.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_146	POINT (18081 1170)	18081	1170	24.900650746576797	66.9881639353452	40.0	30.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_147	POINT (17904 1174)	17904	1174	24.897390736904253	67.00537082273722	90.0	80.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_148	POINT (18002 1282)	18002	1282	24.889276597651648	66.99389656061179	50.0	50.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_149	POINT (18197 1407)	18197	1407	24.881145277002837	66.97261258182543	60.0	70.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_150	POINT (18673 1323)	18673	1323	24.896315264266605	66.9277509975023	80.0	80.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_151	POINT (18531 1204)	18531	1204	24.90480113601855	66.94377101434547	70.0	70.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_152	POINT (18245 1343)	18245	1343	24.88763292385683	66.96912575314889	50.0	60.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_153	POINT (18589 1396)	18589	1396	24.8883854101872	66.93462436078114	60.0	60.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_154	POINT (18252 1406)	18252	1406	24.882065346071844	66.96731387449675	50.0	40.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_155	POINT (21786 1369)	21786	1369	24.941874669228042	66.62367694085964	70.0	70.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_156	POINT (22226 1372)	22226	1372	24.948570601046594	66.58068104804003	80.0	90.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_157	POINT (19187 1409)	19187	1409	24.896851265227216	66.87621084072224	50.0	50.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_158	POINT (19914 1120)	19914	1120	24.934475275513627	66.81052572668868	30.0	40.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_159	POINT (20411 1190)	20411	1190	24.936148243349294	66.76085893022983	70.0	70.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_160	POINT (20749 1207)	20749	1207	24.940004549779697	66.72756710316769	20.0	30.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_161	POINT (4885 1780)	4885	1780	24.627816617210353	68.25963683402613	100.0	130.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_162	POINT (8989 1507)	8989	1507	24.72133074998088	67.86635483464086	40.0	40.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_163	POINT (9057 1765)	9057	1765	24.699182695840374	67.85494998761045	40.0	40.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_164	POINT (11422 1755)	11422	1755	24.73930155222979	67.62541184452569	150.0	220.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_165	POINT (11890 1621)	11890	1621	24.75914933103811	67.58239945347925	70.0	70.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_166	POINT (11618 1793)	11618	1793	24.739155806479452	67.60567331195908	90.0	70.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_167	POINT (11623 1811)	11623	1811	24.73757749318452	67.60479801814479	80.0	80.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_168	POINT (12472 1495)	12472	1495	24.780058818521045	67.52807745822484	80.0	80.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_169	POINT (12513 1710)	12513	1710	24.761331954383138	67.5201941266454	50.0	60.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_170	POINT (13695 1544)	13695	1544	24.795738697290467	67.40831219591328	90.0	90.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_171	POINT (13896 1590)	13896	1590	24.794882418964935	67.38792567548124	70.0	70.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_172	POINT (13894 1605)	13894	1605	24.793496762572854	67.38784639669335	110.0	170.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_173	POINT (13888 1670)	13888	1670	24.787535931911595	67.38724349910399	50.0	50.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_174	POINT (14073 1736)	14073	1736	24.784577036695225	67.36799281444554	160.0	160.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_175	POINT (14315 1491)	14315	1491	24.810658622912214	67.34897678801002	30.0	30.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_176	POINT (14372 1522)	14372	1522	24.808754827079646	67.34280894006461	80.0	80.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_177	POINT (14242 1647)	14242	1647	24.795399122719697	67.35323552209306	190.0	190.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_178	POINT (14149 1775)	14149	1775	24.782346928298082	67.35989983892398	40.0	30.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_179	POINT (14746 1487)	14746	1487	24.817998975788893	67.30710960889144	70.0	80.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_180	POINT (14513 1650)	14513	1650	24.7995007122578	67.32680989848612	90.0	80.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_181	POINT (15424 1473)	15424	1473	24.83036311836338	67.2413621171481	60.0	70.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_182	POINT (15468 1497)	15468	1497	24.82891242777993	67.2366444724084	60.0	70.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_183	POINT (14882 1477)	14882	1477	24.82116253018852	67.29406939468319	10.0	30.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_184	POINT (15068 1599)	15068	1599	24.81314650753039	67.27374818955572	190.0	220.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_185	POINT (14917 1626)	14917	1626	24.808303533626535	67.28790705962369	60.0	30.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_186	POINT (14918 1629)	14918	1629	24.808041127892192	67.28780388523498	30.0	10.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_187	POINT (15834 1452)	15834	1452	24.838898669851638	67.20188800889206	110.0	90.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_188	POINT (15747 1725)	15747	1725	24.81286886492209	67.20540859841118	50.0	70.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_189	POINT (15778 1798)	15778	1798	24.806788717168324	67.20106947071619	30.0	30.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_190	POINT (16716 1566)	16716	1566	24.84288466808752	67.11392960992806	80.0	80.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_191	POINT (16012 1495)	16012	1495	24.837863011624133	67.18377651194625	70.0	60.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_192	POINT (17854 1664)	17854	1664	24.852412929621437	67.00138715032477	80.0	80.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_193	POINT (17928 1769)	17928	1769	24.844177242437084	66.99235565339588	70.0	70.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_194	POINT (17026 1739)	17026	1739	24.832333218708737	67.08064191877118	140.0	70.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_195	POINT (17631 1469)	17631	1469	24.866387945374857	67.0266495306895	50.0	60.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_196	POINT (17641 1527)	17641	1527	24.861364924927663	67.024641968465	90.0	90.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_197	POINT (17587 1595)	17587	1595	24.854362407753076	67.02867579812512	130.0	90.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_198	POINT (17776 1593)	17776	1593	24.85755568559195	67.010255768276	40.0	20.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_199	POINT (17569 1610)	17569	1610	24.852682465191805	67.03010053001289	60.0	60.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_200	POINT (17854 1664)	17854	1664	24.852412929621437	67.00138715032477	80.0	80.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_201	POINT (17553 1679)	17553	1679	24.846239969946065	67.03047444177679	50.0	50.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_202	POINT (17582 1781)	17582	1781	24.837474266582472	67.02575924448082	20.0	60.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_203	POINT (17239 1463)	17239	1463	24.860603467194323	67.06492074199302	50.0	60.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_204	POINT (17362 1512)	17362	1512	24.85817820665046	67.05201517926608	140.0	120.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_205	POINT (17468 1544)	17468	1544	24.85704045061523	67.04117770584958	90.0	90.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_206	POINT (17421 1574)	17421	1574	24.85354005092589	67.04515547975856	80.0	100.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_207	POINT (17366 1595)	17366	1595	24.850759031544452	67.05013150524712	40.0	20.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_208	POINT (17414 1661)	17414	1661	24.84557467015577	67.04431961031005	90.0	100.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_209	POINT (18632 1475)	18632	1475	24.881990605993675	66.92907924411513	50.0	30.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_210	POINT (18859 1586)	18859	1586	24.875583205042595	66.90497775215644	90.0	100.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_211	POINT (18960 1614)	18960	1614	24.87468869996762	66.89459321844349	140.0	180.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_212	POINT (18944 1618)	18944	1618	24.8740631564257	66.89612832941349	90.0	180.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_213	POINT (18603 1643)	18603	1643	24.866378988179612	66.92889386255177	150.0	150.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_214	POINT (18763 1647)	18763	1647	24.86855045404405	66.91318510421962	180.0	140.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_215	POINT (18534 1460)	18534	1460	24.881732449494393	66.93883398450913	60.0	60.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_216	POINT (18261 1518)	18261	1518	24.87211214651477	66.96442833297513	70.0	60.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_217	POINT (18602 1643)	18602	1643	24.86637095965674	66.9289425485261	140.0	150.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_218	POINT (19153 1537)	19153	1537	24.88472115944581	66.87722511386741	50.0	40.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_219	POINT (19188 1615)	19188	1615	24.87829654320893	66.87243172087462	70.0	90.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_220	POINT (19197 1624)	19197	1624	24.877592664195046	66.87133688730476	80.0	80.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_221	POINT (19318 1633)	19318	1633	24.878718444212	66.8593914233869	60.0	40.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_222	POINT (19252 1655)	19252	1655	24.87571787858099	66.86548492542708	70.0	70.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_223	POINT (19308 1678)	19308	1678	24.87454708900713	66.8595705706353	80.0	50.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_224	POINT (19717 1703)	19717	1703	24.878827572732884	66.8192859960726	20.0	30.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_225	POINT (21818 1800)	21818	1800	24.903546885492897	66.61288893210452	100.0	110.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_226	POINT (20814 1491)	20814	1491	24.915386036742138	66.71622972039015	110.0	60.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_227	POINT (20813 1502)	20813	1502	24.914423724434197	66.71614076149356	70.0	70.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_228	POINT (21290 1516)	21290	1516	24.920750992408475	66.66936185332149	80.0	50.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_229	POINT (21258 1564)	21258	1564	24.915871061425822	66.67162064401559	280.0	160.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_230	POINT (21243 1635)	21243	1635	24.909278427552138	66.67183286359617	60.0	70.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_231	POINT (20906 1557)	20906	1557	24.910952374800438	66.70605344109835	80.0	90.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_232	POINT (21085 1568)	21085	1568	24.912797986398488	66.68846482144704	50.0	30.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_233	POINT (20999 1577)	20999	1577	24.91061989858036	66.69668518302782	70.0	50.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_234	POINT (21020 1627)	21020	1627	24.90640990274559	66.69369441552838	260.0	140.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_235	POINT (20864 1658)	20864	1658	24.901136164472245	66.70834448586535	20.0	40.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_236	POINT (20870 1660)	20870	1660	24.901088384872057	66.7077819667699	70.0	70.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_237	POINT (8780 2111)	8780	2111	24.66337987046007	67.87546122803828	30.0	30.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_238	POINT (9118 2069)	9118	2069	24.67276864107363	67.84336873510905	40.0	20.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_239	POINT (10999 1886)	10999	1886	24.720493574765335	67.66404914652021	60.0	60.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_240	POINT (11757 1959)	11757	1959	24.726478009661715	67.58905781608799	60.0	50.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_241	POINT (15766 1848)	15766	1848	24.8020932449745	67.20128250367864	80.0	90.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_242	POINT (15965 2082)	15965	2082	24.784212608669172	67.17772834957161	70.0	70.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_243	POINT (15964 2151)	15964	2151	24.77793746150703	67.17651692117629	100.0	80.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_244	POINT (16084 1950)	16084	1950	24.79805415786838	67.16849528952964	80.0	50.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_245	POINT (16364 2134)	16364	2134	24.785997292081433	67.13797190434859	70.0	70.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_246	POINT (14144 1858)	14144	1858	24.774771408344147	67.35892149006553	130.0	110.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_247	POINT (14344 1857)	14344	1857	24.778076790463693	67.33947828908336	50.0	20.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_248	POINT (14470 1885)	14470	1885	24.777658734237193	67.32667392202298	40.0	30.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_249	POINT (14329 1902)	14329	1902	24.773826977069106	67.34007780347052	80.0	50.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_250	POINT (15071 1845)	15071	1845	24.791010140134784	67.26898708363167	90.0	80.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_251	POINT (14884 1886)	14884	1886	24.784317429683224	67.2863902141516	180.0	110.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_252	POINT (14882 1886)	14882	1886	24.78428482637848	67.28658473346825	140.0	110.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_253	POINT (14695 1929)	14695	1929	24.77735022964946	67.30403857289443	290.0	130.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_254	POINT (14620 1973)	14620	1973	24.772167656040615	67.31048216429642	200.0	190.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_255	POINT (14861 1985)	14861	1985	24.774961093821624	67.2868650588382	250.0	220.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_256	POINT (17984 1984)	17984	1984	24.825658101288795	66.98298439768317	60.0	60.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_257	POINT (18051 1996)	18051	1996	24.825689307695693	66.97630400078593	30.0	50.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_258	POINT (18074 2092)	18074	2092	24.8174117641433	66.97229038528226	60.0	50.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_259	POINT (18094 2156)	18094	2156	24.811917945529366	66.96918404581287	60.0	40.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_260	POINT (18033 2166)	18033	2166	24.810036624959398	66.97494168605756	60.0	60.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_261	POINT (17939 2177)	17939	2177	24.807578161770657	66.98390149308383	60.0	30.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_262	POINT (17501 1824)	17501	1824	24.832326970179402	67.03292707101798	170.0	90.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_263	POINT (17602 2014)	17602	2014	24.816781189023125	67.01966833869099	110.0	100.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_264	POINT (17502 2056)	17502	2056	24.81142545222144	67.02865201622339	50.0	70.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_265	POINT (17489 2062)	17489	2062	24.810682724532562	67.02976029345464	40.0	30.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_266	POINT (17679 2081)	17679	2081	24.811991427130536	67.01091999020116	80.0	80.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_267	POINT (17601 2084)	17601	2084	24.810461929913046	67.01845613675968	80.0	80.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_268	POINT (17847 2134)	17847	2134	24.80991672574521	66.9936668293041	150.0	120.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_269	POINT (21639 2097)	21639	2097	24.873926696558286	66.62511707216773	90.0	170.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_270	POINT (17086 1937)	17086	1937	24.815448392075247	67.07123287900782	60.0	50.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_271	POINT (17095 1951)	17095	1951	24.814331354512927	67.07010432539941	60.0	50.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_272	POINT (17444 1901)	17444	1901	24.824427341949903	67.03703133741669	40.0	40.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_273	POINT (17193 1950)	17193	1950	24.815958170490056	67.06057605788253	60.0	60.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_274	POINT (17402 2147)	17402	2147	24.801569639417885	67.0366851395927	60.0	60.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_275	POINT (17467 2157)	17467	2157	24.80170917649914	67.03022872274217	110.0	200.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_276	POINT (16622 1868)	16622	1868	24.81417629538955	67.11763398654226	80.0	90.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_277	POINT (16505 1947)	16505	1947	24.805146589153082	67.1276386854571	90.0	110.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_278	POINT (16512 1957)	16512	1957	24.804358463080103	67.12677674942668	30.0	50.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_279	POINT (16616 1989)	16616	1989	24.803115233801254	67.11607087717937	70.0	80.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_280	POINT (16531 2008)	16531	2008	24.800076211163844	67.12395708177989	20.0	30.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_281	POINT (16483 2011)	16483	2011	24.79898187618901	67.12856352033181	40.0	40.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_282	POINT (16482 2023)	16482	2023	24.797928706864344	67.12845274928848	80.0	70.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_283	POINT (16378 2133)	16378	2133	24.786277636399504	67.13657043297002	120.0	80.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_284	POINT (16461 2155)	16461	2155	24.785632455103205	67.12814699315895	30.0	40.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_285	POINT (20997 1824)	20997	1824	24.88832518478678	66.6924983272124	30.0	30.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_286	POINT (9066 2330)	9066	2330	24.6483476551041	67.84360711761911	50.0	40.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_287	POINT (12836 2395)	12836	2395	24.704916526660337	67.47619009606329	260.0	170.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_288	POINT (12743 2410)	12743	2410	24.70202423042575	67.48499895584662	70.0	70.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_289	POINT (12962 2419)	12962	2419	24.704771520907297	67.46349506885792	60.0	60.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_290	POINT (12884 2478)	12884	2478	24.698216775592392	67.4700020192825	80.0	90.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_291	POINT (12876 2478)	12876	2478	24.698032379362118	67.47081888427196	10.0	40.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_292	POINT (12818 2498)	12818	2498	24.69533014362516	67.47604846269356	40.0	50.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_293	POINT (12656 2527)	12656	2527	24.689993244416165	67.49129338781343	50.0	40.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_294	POINT (16153 2388)	16153	2388	24.759625162421123	67.15388678275532	270.0	200.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_295	POINT (16213 2484)	16213	2484	24.751950440748942	67.14626389982105	120.0	80.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_296	POINT (17726 2228)	17726	2228	24.79954180475655	67.00370891157957	60.0	70.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_297	POINT (16679 2434)	16679	2434	24.764020830441797	67.10184869131605	100.0	100.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_298	POINT (17277 2199)	17277	2199	24.794855387292046	67.04795914131346	50.0	40.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_299	POINT (17102 2197)	17102	2197	24.79221082117867	67.06502304191078	50.0	60.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_300	POINT (16856 2211)	16856	2211	24.787030659149593	67.08866677334521	40.0	50.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_301	POINT (16837 2291)	16837	2291	24.779465566010025	67.08906116499496	80.0	80.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_302	POINT (17082 2306)	17082	2306	24.782068145472557	67.06495310130825	60.0	60.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_303	POINT (16831 2311)	16831	2311	24.777610463648294	67.08929263801815	120.0	70.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_304	POINT (16971 2524)	16971	2524	24.76066532794391	67.07182542308408	100.0	90.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_305	POINT (17904 2225)	17904	2225	24.802685640597026	66.98644354266912	40.0	50.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_306	POINT (17911 2466)	17911	2466	24.781070749924385	66.98142675323112	80.0	130.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_307	POINT (19895 2199)	19895	2199	24.836916063689777	66.79309264605826	40.0	120.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_308	POINT (19875 2207)	19875	2207	24.835920404363453	66.79490612021085	80.0	130.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_309	POINT (21794 2315)	21794	2315	24.856744406906802	66.60615853283595	130.0	150.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_310	POINT (21913 2392)	21913	2392	24.85169702716134	66.5931545175996	80.0	110.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_311	POINT (21837 2428)	21837	2428	24.847205328448506	66.59991161534988	220.0	280.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_312	POINT (21851 2426)	21851	2426	24.847644195195013	66.59864083427789	10.0	50.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_313	POINT (1058 2717)	1058	2717	24.4780147346417	68.61279021651173	50.0	50.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_314	POINT (8882 2573)	8882	2573	24.623355594313388	67.85694104751082	30.0	40.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_315	POINT (13146 2636)	13146	2636	24.688251437577506	67.44169262785286	90.0	90.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_316	POINT (12627 2582)	12627	2582	24.6846080713177	67.49306098376688	60.0	70.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_317	POINT (16982 2572)	16982	2572	24.7565069260931	67.06993730917216	110.0	110.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_318	POINT (16949 2635)	16949	2635	24.75025669943265	67.071952062261	180.0	240.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_319	POINT (16941 2625)	16941	2625	24.751021113255195	67.07295945401371	30.0	20.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_320	POINT (16853 2636)	16853	2636	24.74865353224	67.08132967723171	90.0	90.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_321	POINT (15686 2897)	15686	2897	24.706193127609307	67.19007657140335	90.0	90.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_322	POINT (21716 2571)	21716	2571	24.832387546691358	66.60921045814071	290.0	280.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_323	POINT (40 2928)	40	2928	24.441477012274984	68.7072553424025	20.0	30.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_324	POINT (5974 3016)	5974	3016	24.534612552490625	68.13073019153137	50.0	40.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_325	POINT (6875 3082)	6875	3082	24.54383089807577	68.04207661884564	80.0	80.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_326	POINT (10862 3071)	10862	3071	24.61131844440502	67.65549525335685	50.0	20.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_327	POINT (13260 2980)	13260	2980	24.659101261895096	67.42426313270647	40.0	30.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_328	POINT (13021 3169)	13021	3169	24.638136597293176	67.44401459509116	40.0	50.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_329	POINT (13122 3266)	13122	3266	24.631035201494182	67.43247436963621	50.0	50.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_330	POINT (16016 3202)	16016	3202	24.684001465372646	67.15245608602542	90.0	100.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_331	POINT (16959 3126)	16959	3126	24.706184012924393	67.06217074360855	110.0	130.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_332	POINT (1044 3635)	1044	3635	24.39491970019734	68.59648508485084	60.0	50.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_333	POINT (10219 3562)	10219	3562	24.556420063938656	67.70882284932563	70.0	70.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_334	POINT (13285 3380)	13285	3380	24.623380238607197	67.41454492477206	50.0	40.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_335	POINT (13183 3391)	13183	3391	24.620769110361536	67.42420993064705	80.0	30.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_336	POINT (13272 3402)	13272	3402	24.621182838414285	67.41540434409822	50.0	40.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_337	POINT (13117 3465)	13117	3465	24.613004404213324	67.42931148766928	90.0	50.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_338	POINT (13063 3479)	13063	3479	24.61081120791363	67.43428963048953	30.0	40.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_339	POINT (13298 3541)	13298	3541	24.609080382465063	67.4102840760992	60.0	40.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_340	POINT (15712 3456)	15712	3456	24.6561621501637	67.1773943176468	30.0	40.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_341	POINT (13414 3529)	13414	3529	24.61210974801342	67.39924862810595	60.0	50.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_342	POINT (13414 3550)	13414	3550	24.610162404307797	67.39890344472865	70.0	40.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_343	POINT (4516 3955)	4516	3955	24.425228941112323	68.2542190622342	80.0	80.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_344	POINT (6011 3654)	6011	3654	24.47766369719539	68.11512439824595	70.0	80.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_345	POINT (7543 3817)	7543	3817	24.488764848581752	67.96358692686394	50.0	50.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_346	POINT (9984 3964)	9984	3964	24.516199143595504	67.72414540702346	70.0	80.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_347	POINT (13316 3661)	13316	3661	24.59859738145163	67.40634689284273	40.0	50.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_348	POINT (13040 3809)	13040	3809	24.580669524647302	67.43047109990866	30.0	40.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_349	POINT (12719 3825)	12719	3825	24.573998715128383	67.46134807353499	70.0	70.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_350	POINT (12862 3912)	12862	3912	24.568468970687704	67.44581103682056	60.0	100.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_351	POINT (15493 3712)	15493	3712	24.62957463719934	67.1939866170978	100.0	70.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_352	POINT (15433 3749)	15433	3749	24.625218773453323	67.19913483424025	120.0	80.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_353	POINT (15380 3760)	15380	3760	24.6234017742831	67.20414135639953	110.0	110.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_354	POINT (16317 3931)	16317	3931	24.623207129349787	67.10995770692034	160.0	130.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_355	POINT (15183 3757)	15183	3757	24.620412951464548	67.22332065858289	50.0	40.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_356	POINT (1066 4281)	1066	4281	24.336982301106662	68.58199149581651	70.0	70.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_357	POINT (11254 4054)	11254	4054	24.529142463214857	67.59922882825907	60.0	40.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_358	POINT (13543 4068)	13543	4068	24.56561299501795	67.37684448197002	60.0	70.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_359	POINT (13645 4317)	13645	4317	24.544776754055743	67.36241328522655	250.0	240.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_360	POINT (15115 4224)	15115	4224	24.577192352982113	67.22140868045275	30.0	20.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_361	POINT (667 4473)	667	4473	24.31279995415019	68.6168396757412	20.0	30.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_362	POINT (430 4510)	430	4510	24.305375952056934	68.63909615038905	70.0	50.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_363	POINT (12050 4692)	12050	4692	24.484784065484657	67.5102250451665	40.0	50.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_364	POINT (13662 4379)	13662	4379	24.53946419893265	67.35962569052643	90.0	100.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_365	POINT (506 4843)	506	4843	24.276635787503547	68.62528092535776	40.0	30.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_366	POINT (529 4919)	529	4919	24.27012666357056	68.62158307128045	80.0	100.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_367	POINT (7279 4771)	7279	4771	24.39821014463385	67.97123453737112	70.0	80.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_368	POINT (12399 5085)	12399	5085	24.45504607824454	67.46911911696934	80.0	80.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_369	POINT (12874 4970)	12874	4970	24.473290784024208	67.4251842130476	180.0	150.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_370	POINT (14513 4814)	14513	4814	24.51417139844606	67.26901866976928	200.0	180.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_371	POINT (14510 4815)	14510	4815	24.514077334994976	67.26930068012881	140.0	170.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_372	POINT (3038 5143)	3038	5143	24.292924841692546	68.37471179944134	90.0	90.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_373	POINT (12947 5374)	12947	5374	24.438052253011463	67.41066954080624	260.0	270.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_374	POINT (12626 5365)	12626	5365	24.433535118532806	67.44194983831443	200.0	180.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_375	POINT (14489 5556)	14489	5556	24.446859860912536	67.25782323551151	210.0	200.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_376	POINT (12437 5678)	12437	5678	24.402188463717074	67.45450285207221	40.0	60.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_377	POINT (15659 5923)	15659	5923	24.43286223850164	67.13759904511437	120.0	100.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_378	POINT (13927 5893)	13927	5893	24.407328297623078	67.30611742361098	140.0	110.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_379	POINT (13916 5897)	13916	5897	24.40673370899794	67.30714993663277	50.0	40.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_380	POINT (14020 6140)	14020	6140	24.386533611323358	67.2925737728063	60.0	60.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_381	POINT (14026 6145)	14026	6145	24.386226262032192	67.29190988635102	60.0	30.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_382	POINT (1588 6258)	1588	6258	24.167509290719483	68.49350989139178	40.0	30.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_383	POINT (4091 6335)	4091	6335	24.20327944501924	68.2501924339845	30.0	30.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_384	POINT (4069 6424)	4069	6424	24.194837353073616	68.25057180628951	80.0	60.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_385	POINT (4048 6515)	4048	6515	24.186259870124402	68.25092242159772	30.0	20.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_386	POINT (4091 6335)	4091	6335	24.20327944501924	68.2501924339845	30.0	30.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_387	POINT (6042 6450)	6042	6450	24.22594565449409	68.05931459701355	80.0	50.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_388	POINT (10449 6314)	10449	6314	24.311934329393882	67.63540084494281	150.0	200.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_389	POINT (10674 6329)	10674	6329	24.314318768902293	67.6132842672591	100.0	100.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_390	POINT (13978 6387)	13978	6387	24.363613222850287	67.29213453899244	40.0	50.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_391	POINT (1954 6659)	1954	6659	24.137583478263032	68.45047347260864	40.0	50.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_392	POINT (5874 6711)	5874	6711	24.199501777366677	68.0706770893181	50.0	40.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_393	POINT (11708 6638)	11708	6638	24.303616871176942	67.50744728461629	60.0	50.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_394	POINT (4041 7125)	4041	7125	24.13109777712679	68.23996695967517	60.0	60.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_395	POINT (4128 6988)	4128	6988	24.14497506885143	68.23421856174721	70.0	50.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_396	POINT (3805 7566)	3805	7566	24.087325055265545	68.25444633413342	50.0	50.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_397	POINT (4487 7282)	4487	7282	24.124535460612723	68.19395040427648	50.0	50.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_398	POINT (2248 7991)	2248	7991	24.022379648574386	68.39670656996111	50.0	30.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_399	POINT (7191 7901)	7191	7901	24.114306775698186	67.92100060581915	50.0	60.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_400	POINT (7773 7979)	7773	7979	24.11710422695388	67.86326452761466	20.0	30.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_401	POINT (13436 7734)	13436	7734	24.233228105811357	67.31996485778267	60.0	50.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_402	POINT (11914 7774)	11914	7774	24.20454485837554	67.46655145670479	140.0	110.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_403	POINT (13181 7814)	13181	7814	24.221821755027253	67.34319567973125	60.0	50.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_404	POINT (1836 8248)	1836	8248	23.99207216534315	68.43157734535103	30.0	20.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_405	POINT (3920 8100)	3920	8100	24.041077315122042	68.23325148534173	90.0	70.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_406	POINT (11886 8323)	11886	8323	24.154547736928922	67.45921476101614	40.0	50.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_407	POINT (13042 8097)	13042	8097	24.19400622176941	67.35149544068112	20.0	30.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_408	POINT (13220 8207)	13220	8207	24.18696163006298	67.33225458407276	40.0	40.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_409	POINT (13201 8215)	13201	8215	24.18596459607615	67.3340052675746	70.0	70.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_410	POINT (12569 8241)	12569	8241	24.173222235979406	67.39463911627104	20.0	30.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_411	POINT (12596 8371)	12596	8371	24.161885672239816	67.3896935325839	30.0	40.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_412	POINT (12952 8251)	12952	8251	24.178625427818346	67.35744786952367	50.0	50.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_413	POINT (10999 8698)	10999	8698	24.10601468874451	67.53816778231095	50.0	50.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_414	POINT (12990 8501)	12990	8501	24.156703065379418	67.34916552212877	180.0	170.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_415	POINT (12746 8589)	12746	8589	24.144747249025688	67.37116729495062	80.0	110.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_416	POINT (12596 8371)	12596	8371	24.161885672239816	67.3896935325839	30.0	40.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_417	POINT (12533 8451)	12533	8451	24.153635936908437	67.39427900427437	40.0	40.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_418	POINT (12540 8458)	12540	8458	24.153111695226578	67.3935224705075	90.0	100.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_419	POINT (3903 8994)	3903	8994	23.960090324813375	68.21799342927747	60.0	50.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_420	POINT (6532 9033)	6532	9033	24.00109923405682	67.96351305696517	60.0	130.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_421	POINT (7383 9016)	7383	9016	24.016900169517406	67.88169477050177	50.0	200.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_422	POINT (12737 8769)	12737	8769	24.128350481850568	67.36880251103943	250.0	150.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_423	POINT (3942 9125)	3942	9125	23.948926486694525	68.21176089493979	80.0	130.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_424	POINT (4017 9463)	4017	9463	23.919678590979203	68.19820361900965	50.0	50.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_425	POINT (6948 9358)	6948	9358	23.97871161602916	67.91732413520693	110.0	120.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_426	POINT (7227 9183)	7227	9183	23.999255638860948	67.89360974929892	40.0	30.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_427	POINT (7230 9188)	7230	9188	23.998846421868716	67.89327526593004	50.0	30.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_428	POINT (7401 9230)	7401	9230	23.997888168737255	67.87597426560761	30.0	20.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_429	POINT (7415 9232)	7415	9232	23.997988384717434	67.87459469074209	90.0	50.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_430	POINT (10043 9253)	10043	9253	24.04006202256441	67.62031226142395	40.0	50.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_431	POINT (10043 9253)	10043	9253	24.04006202256441	67.62031226142395	40.0	50.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_432	POINT (12592 9170)	12592	9170	24.089731689084616	67.37549702986287	70.0	60.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_433	POINT (11698 9166)	11698	9166	24.07532754761046	67.46200370434748	270.0	240.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_434	POINT (4017 9463)	4017	9463	23.919678590979203	68.19820361900965	50.0	50.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_435	POINT (7329 9609)	7329	9609	23.962477540248774	67.8758225784308	40.0	40.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_436	POINT (7751 10185)	7751	10185	23.917641164132643	67.82435058964774	100.0	90.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_437	POINT (1664 10475)	1664	10475	23.788075253991103	68.40575030899076	60.0	40.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_438	POINT (1755 10510)	1755	10510	23.78651251071901	68.39637408555298	70.0	70.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_439	POINT (4886 10430)	4886	10430	23.847164292102594	68.09610060701766	40.0	30.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_440	POINT (7080 10516)	7080	10516	23.87646966622118	67.8829471480273	150.0	70.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_441	POINT (11160 10393)	11160	10393	23.95570600928561	67.4914283951199	150.0	180.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_442	POINT (11144 10450)	11144	10450	23.95034293434969	67.49193198161068	110.0	110.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_443	POINT (11160 10393)	11160	10393	23.95570600928561	67.4914283951199	150.0	180.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_444	POINT (4721 10710)	4721	10710	23.81904305402398	68.10671485921016	40.0	40.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_445	POINT (6634 10640)	6634	10640	23.85777846733142	67.92359609148623	40.0	30.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_446	POINT (6540 10738)	6540	10738	23.847297882792212	67.93086424572266	70.0	40.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_447	POINT (6605 10843)	6605	10843	23.83892459735532	67.92257930766694	160.0	240.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_448	POINT (7601 10801)	7601	10801	23.859530223778947	67.82732149513471	140.0	210.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_449	POINT (8380 11251)	8380	11251	23.831933485353495	67.74382945895576	110.0	140.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_450	POINT (5436 11338)	5436	11338	23.774479703657427	68.02601825991412	50.0	60.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_451	POINT (4875 11327)	4875	11327	23.765969930050776	68.08023584622336	40.0	60.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_452	POINT (8880 11507)	8880	11507	23.817223574211628	67.69080030433379	40.0	40.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_453	POINT (445 11898)	445	11898	23.638682341389636	68.49594378235962	190.0	210.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_454	POINT (4002 11798)	4002	11798	23.70866613287094	68.15543596684236	120.0	110.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_455	POINT (4014 11801)	4014	11801	23.708545707549515	68.15426202415074	90.0	100.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_456	POINT (3326 11768)	3326	11768	23.699798878095066	68.22108824431695	20.0	40.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_457	POINT (3102 11915)	3102	11915	23.68270620075389	68.23986048976782	80.0	40.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_458	POINT (4455 11742)	4455	11742	23.721375006897194	68.11285622122118	20.0	40.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_459	POINT (928 12207)	928	12207	23.619118292153317	68.44350756384961	60.0	90.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_460	POINT (759 12653)	759	12653	23.57594549254707	68.45121241051689	40.0	30.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_461	POINT (746 12658)	746	12658	23.57527013527394	68.45236658932964	100.0	50.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_462	POINT (746 12658)	746	12658	23.57527013527394	68.45236658932964	100.0	50.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_463	POINT (2335 12945)	2335	12945	23.576656399066795	68.2941102603176	90.0	70.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_464	POINT (820 13288)	820	13288	23.519620549207968	68.43321379724588	70.0	100.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_465	POINT (803 13365)	803	13365	23.51243044359729	68.43333329408205	20.0	30.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_466	POINT (960 14040)	960	14040	23.454148924651385	68.40535412829996	110.0	160.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
-target_467	POINT (969 14044)	969	14044	23.45395158351841	68.40436490288137	60.0	40.0	fill:#ff0000; fill-opacity:0.2; stroke:#ff0000; stroke-opacity:1.0; stroke-width:1.0; symbol:circle
+ShipDetections,Latitude,Longitude,Detected_length
+target_000,24.8111865087546,67.987740997149,80
+target_001,24.8557682078119,67.7721611673043,80
+target_002,24.9105102683902,67.4745395812608,110
+target_003,24.9038739381718,67.4782265866155,80
+target_004,24.9416873964722,67.269093824436,90
+target_005,24.9597050272992,67.2134692908857,70
+target_006,24.9524321012052,67.2112540715684,10
+target_007,24.9483068033371,67.2116841554652,80
+target_008,24.9536306424283,67.1880898888564,60
+target_009,24.9433859418012,67.2028949893462,110
+target_010,24.9422167203137,67.2043211725177,90
+target_011,24.9652355820251,67.140738991859,40
+target_012,24.9828721362957,67.1366175438707,80
+target_013,24.9700262157662,67.1337443905143,60
+target_014,24.9711945173443,67.1171146501327,60
+target_015,24.985184693772,67.0882983668475,20
+target_016,24.9708563922389,67.0977681128194,60
+target_017,24.9913233364173,67.0337496849212,40
+target_018,24.9726491521231,67.0337519120147,30
+target_019,25.0126137738846,66.9672631601729,20
+target_020,24.9974056060685,66.951053368742,40
+target_021,25.0240167445753,66.8871756127654,60
+target_022,25.0077316044277,66.894821442986,90
+target_023,24.9999424060553,66.9065129647878,110
+target_024,24.9925987059609,66.8965519310122,60
+target_025,24.9901152780506,66.9031549298978,60
+target_026,25.0308019262449,66.687272680631,180
+target_027,25.0128087581421,66.8808772411608,70
+target_028,24.9994699626485,66.8489408482754,40
+target_029,25.0344806628568,66.8263674464182,30
+target_030,25.0202089824897,66.8427754984239,220
+target_031,25.0195033219634,66.8433909918599,50
+target_032,24.7332828407896,68.2548492263015,60
+target_033,24.8378288662762,67.7968104903927,40
+target_034,24.8129172275233,67.7871132970506,110
+target_035,24.9194738533496,67.2589373953427,40
+target_036,24.9072674791625,67.2368057808278,30
+target_037,24.929984076672,67.2389063764081,60
+target_038,24.9258576199958,67.2387814968718,50
+target_039,24.9164571550318,67.2317084818203,60
+target_040,24.9072674791625,67.2368057808278,30
+target_041,24.9063597187376,67.2198668982645,70
+target_042,24.9418765325195,67.1864870403755,20
+target_043,24.9406287913152,67.1875452428619,90
+target_044,24.9409382464796,67.1798067293511,60
+target_045,24.925177520349,67.1762434176834,70
+target_046,24.9217130097893,67.1659882294651,60
+target_047,24.940027804222,67.1637215756092,70
+target_048,24.9530603442198,67.1219935514945,60
+target_049,24.9409017800873,67.1203157567183,10
+target_050,24.9328553244693,67.1261537394351,70
+target_051,24.933646421547,67.0732731645969,80
+target_052,24.9535746979827,66.9868254184953,50
+target_053,24.9781068425967,66.9455586035026,40
+target_054,24.9746664351501,66.9263067966141,60
+target_055,24.9732738883661,66.9166711156501,60
+target_056,24.9538513383448,66.9455702151542,90
+target_057,24.9544583193842,66.9266219774158,70
+target_058,24.9890876326695,66.8790970163955,50
+target_059,24.9735830180413,66.8791451728443,60
+target_060,24.9771969889357,66.8204299145466,50
+target_061,25.0025179988317,66.7814500998157,80
+target_062,24.7234652623016,68.2618015560944,40
+target_063,24.7505538667994,67.9262471005189,60
+target_064,24.8053045215906,67.7977751874298,30
+target_065,24.7968401714897,67.7768177590805,70
+target_066,24.8407990310235,67.4556184169533,100
+target_067,24.8349370748237,67.4583028789107,140
+target_068,24.8342977469197,67.4593301850693,60
+target_069,24.8475477223642,67.4401843648932,30
+target_070,24.8443634003805,67.426409393879,50
+target_071,24.8422079922277,67.411787560612,20
+target_072,24.836034240307,67.4321162652282,70
+target_073,24.8615088045748,67.3943650430669,30
+target_074,24.8477749923944,67.3917375972436,30
+target_075,24.8469815933681,67.3812153881796,40
+target_076,24.8612028104547,67.35616952883,70
+target_077,24.8597353181805,67.3440508032426,60
+target_078,24.8592523784215,67.3327350507935,90
+target_079,24.875146726464,67.2809563862412,80
+target_080,24.8714923040143,67.2702101220569,50
+target_081,24.8979010524248,67.2281300616802,70
+target_082,24.9003599878368,67.1671913159823,80
+target_083,24.9146478415257,67.1266859281449,80
+target_084,24.8964287659438,67.1409981474625,100
+target_085,24.9033718978282,67.11320900723,40
+target_086,24.8992908047309,67.1049465817791,70
+target_087,24.8864173852357,67.1182679054843,80
+target_088,24.9195829467678,67.0839483558784,80
+target_089,24.9092734542704,67.0607082570931,60
+target_090,24.8992117682603,67.0744948826152,90
+target_091,24.9087050944282,67.0152204475842,40
+target_092,24.9070798331216,67.0171600691215,60
+target_093,24.9153032331262,66.9842899229069,60
+target_094,24.908800070187,66.9988915239128,60
+target_095,24.9273191669236,66.9517679724975,50
+target_096,24.9238242241678,66.9681771057953,60
+target_097,24.929868240309,66.9063471727592,70
+target_098,24.9760296808859,66.7345637413902,200
+target_099,24.653848040238,68.4421191286125,20
+target_100,24.6529531677948,68.4426850320492,30
+target_101,24.652479709342,68.4421828434597,30
+target_102,24.8309133405775,67.4099030853947,70
+target_103,24.8243386972105,67.4151604447823,110
+target_104,24.8185015004563,67.4182531284613,70
+target_105,24.813317865301,67.4091566614846,90
+target_106,24.8070213799096,67.4116532015956,30
+target_107,24.8413115143559,67.3477249137079,200
+target_108,24.8407611098607,67.3465574375824,180
+target_109,24.8321724781788,67.3649925152128,80
+target_110,24.8227476006438,67.3344198526558,20
+target_111,24.8505179345649,67.3203082931028,70
+target_112,24.8351451311128,67.3007607563637,50
+target_113,24.8314970556137,67.3086251387276,70
+target_114,24.8394608070644,67.3738098125102,60
+target_115,24.8350400423521,67.3820697218874,30
+target_116,24.8333825201411,67.3752969517279,50
+target_117,24.838487765693,67.2866485211522,40
+target_118,24.8335167964758,67.2912793657308,60
+target_119,24.8326524379756,67.2917086385709,90
+target_120,24.8560264166471,67.2434063205479,50
+target_121,24.8511401928065,67.258417513473,60
+target_122,24.8543233498442,67.2281744072037,40
+target_123,24.8466505415529,67.2431801702907,70
+target_124,24.8457234206975,67.2425912629701,90
+target_125,24.845460003997,67.241934678815,70
+target_126,24.8449153541955,67.2421269097769,20
+target_127,24.8442184003467,67.230367815812,30
+target_128,24.831979189724,67.2489790729613,70
+target_129,24.8705285350379,67.2025068516096,40
+target_130,24.8388986698516,67.2018880088921,90
+target_131,24.8899998173011,67.0350809912363,50
+target_132,24.8745696122236,67.1385306295112,40
+target_133,24.8864173852357,67.1182679054843,80
+target_134,24.8862308584899,67.1174256753184,70
+target_135,24.8797034899087,67.1152137543166,50
+target_136,24.8786047328952,67.1069454919092,80
+target_137,24.869723061444,67.1051684487875,70
+target_138,24.885809166883,67.0620591641589,70
+target_139,24.8780055648738,67.0683971900264,40
+target_140,24.864543658492,67.0743077502916,100
+target_141,24.863904908169,67.0728222222115,70
+target_142,24.865409912984,67.0558730688192,70
+target_143,24.9069203173455,66.9831746612181,20
+target_144,24.9032530904017,67.000905478432,40
+target_145,24.9027106275414,67.0002441475595,80
+target_146,24.9006507465768,66.9881639353452,30
+target_147,24.8973907369043,67.0053708227372,80
+target_148,24.8892765976516,66.9938965606118,50
+target_149,24.8811452770028,66.9726125818254,70
+target_150,24.8963152642666,66.9277509975023,80
+target_151,24.9048011360185,66.9437710143455,70
+target_152,24.8876329238568,66.9691257531489,60
+target_153,24.8883854101872,66.9346243607811,60
+target_154,24.8820653460718,66.9673138744968,40
+target_155,24.941874669228,66.6236769408596,70
+target_156,24.9485706010466,66.58068104804,90
+target_157,24.8968512652272,66.8762108407222,50
+target_158,24.9344752755136,66.8105257266887,40
+target_159,24.9361482433493,66.7608589302298,70
+target_160,24.9400045497797,66.7275671031677,30
+target_161,24.6278166172104,68.2596368340261,130
+target_162,24.7213307499809,67.8663548346409,40
+target_163,24.6991826958404,67.8549499876105,40
+target_164,24.7393015522298,67.6254118445257,220
+target_165,24.7591493310381,67.5823994534793,70
+target_166,24.7391558064795,67.6056733119591,70
+target_167,24.7375774931845,67.6047980181448,80
+target_168,24.780058818521,67.5280774582248,80
+target_169,24.7613319543831,67.5201941266454,60
+target_170,24.7957386972905,67.4083121959133,90
+target_171,24.7948824189649,67.3879256754812,70
+target_172,24.7934967625729,67.3878463966934,170
+target_173,24.7875359319116,67.387243499104,50
+target_174,24.7845770366952,67.3679928144455,160
+target_175,24.8106586229122,67.34897678801,30
+target_176,24.8087548270796,67.3428089400646,80
+target_177,24.7953991227197,67.3532355220931,190
+target_178,24.7823469282981,67.359899838924,30
+target_179,24.8179989757889,67.3071096088914,80
+target_180,24.7995007122578,67.3268098984861,80
+target_181,24.8303631183634,67.2413621171481,70
+target_182,24.8289124277799,67.2366444724084,70
+target_183,24.8211625301885,67.2940693946832,30
+target_184,24.8131465075304,67.2737481895557,220
+target_185,24.8083035336265,67.2879070596237,30
+target_186,24.8080411278922,67.287803885235,10
+target_187,24.8388986698516,67.2018880088921,90
+target_188,24.8128688649221,67.2054085984112,70
+target_189,24.8067887171683,67.2010694707162,30
+target_190,24.8428846680875,67.1139296099281,80
+target_191,24.8378630116241,67.1837765119463,60
+target_192,24.8524129296214,67.0013871503248,80
+target_193,24.8441772424371,66.9923556533959,70
+target_194,24.8323332187087,67.0806419187712,70
+target_195,24.8663879453749,67.0266495306895,60
+target_196,24.8613649249277,67.024641968465,90
+target_197,24.8543624077531,67.0286757981251,90
+target_198,24.8575556855919,67.010255768276,20
+target_199,24.8526824651918,67.0301005300129,60
+target_200,24.8524129296214,67.0013871503248,80
+target_201,24.8462399699461,67.0304744417768,50
+target_202,24.8374742665825,67.0257592444808,60
+target_203,24.8606034671943,67.064920741993,60
+target_204,24.8581782066505,67.0520151792661,120
+target_205,24.8570404506152,67.0411777058496,90
+target_206,24.8535400509259,67.0451554797586,100
+target_207,24.8507590315445,67.0501315052471,20
+target_208,24.8455746701558,67.0443196103101,100
+target_209,24.8819906059937,66.9290792441151,30
+target_210,24.8755832050426,66.9049777521564,100
+target_211,24.8746886999676,66.8945932184435,180
+target_212,24.8740631564257,66.8961283294135,180
+target_213,24.8663789881796,66.9288938625518,150
+target_214,24.868550454044,66.9131851042196,140
+target_215,24.8817324494944,66.9388339845091,60
+target_216,24.8721121465148,66.9644283329751,60
+target_217,24.8663709596567,66.9289425485261,150
+target_218,24.8847211594458,66.8772251138674,40
+target_219,24.8782965432089,66.8724317208746,90
+target_220,24.877592664195,66.8713368873048,80
+target_221,24.878718444212,66.8593914233869,40
+target_222,24.875717878581,66.8654849254271,70
+target_223,24.8745470890071,66.8595705706353,50
+target_224,24.8788275727329,66.8192859960726,30
+target_225,24.9035468854929,66.6128889321045,110
+target_226,24.9153860367421,66.7162297203902,60
+target_227,24.9144237244342,66.7161407614936,70
+target_228,24.9207509924085,66.6693618533215,50
+target_229,24.9158710614258,66.6716206440156,160
+target_230,24.9092784275521,66.6718328635962,70
+target_231,24.9109523748004,66.7060534410984,90
+target_232,24.9127979863985,66.688464821447,30
+target_233,24.9106198985804,66.6966851830278,50
+target_234,24.9064099027456,66.6936944155284,140
+target_235,24.9011361644722,66.7083444858654,40
+target_236,24.9010883848721,66.7077819667699,70
+target_237,24.6633798704601,67.8754612280383,30
+target_238,24.6727686410736,67.8433687351091,20
+target_239,24.7204935747653,67.6640491465202,60
+target_240,24.7264780096617,67.589057816088,50
+target_241,24.8020932449745,67.2012825036786,90
+target_242,24.7842126086692,67.1777283495716,70
+target_243,24.777937461507,67.1765169211763,80
+target_244,24.7980541578684,67.1684952895297,50
+target_245,24.7859972920814,67.1379719043486,70
+target_246,24.7747714083441,67.3589214900655,110
+target_247,24.7780767904637,67.3394782890834,20
+target_248,24.7776587342372,67.326673922023,30
+target_249,24.7738269770691,67.3400778034705,50
+target_250,24.7910101401348,67.2689870836317,80
+target_251,24.7843174296832,67.2863902141516,110
+target_252,24.7842848263785,67.2865847334682,110
+target_253,24.7773502296495,67.3040385728944,130
+target_254,24.7721676560406,67.3104821642964,190
+target_255,24.7749610938216,67.2868650588382,220
+target_256,24.8256581012888,66.9829843976832,60
+target_257,24.8256893076957,66.9763040007859,50
+target_258,24.8174117641433,66.9722903852823,50
+target_259,24.8119179455294,66.9691840458129,40
+target_260,24.8100366249594,66.9749416860576,60
+target_261,24.8075781617707,66.9839014930838,30
+target_262,24.8323269701794,67.032927071018,90
+target_263,24.8167811890231,67.019668338691,100
+target_264,24.8114254522214,67.0286520162234,70
+target_265,24.8106827245326,67.0297602934546,30
+target_266,24.8119914271305,67.0109199902012,80
+target_267,24.810461929913,67.0184561367597,80
+target_268,24.8099167257452,66.9936668293041,120
+target_269,24.8739266965583,66.6251170721677,170
+target_270,24.8154483920752,67.0712328790078,50
+target_271,24.8143313545129,67.0701043253994,50
+target_272,24.8244273419499,67.0370313374167,40
+target_273,24.8159581704901,67.0605760578825,60
+target_274,24.8015696394179,67.0366851395927,60
+target_275,24.8017091764991,67.0302287227422,200
+target_276,24.8141762953896,67.1176339865423,90
+target_277,24.8051465891531,67.1276386854571,110
+target_278,24.8043584630801,67.1267767494267,50
+target_279,24.8031152338013,67.1160708771794,80
+target_280,24.8000762111638,67.1239570817799,30
+target_281,24.798981876189,67.1285635203318,40
+target_282,24.7979287068643,67.1284527492885,70
+target_283,24.7862776363995,67.13657043297,80
+target_284,24.7856324551032,67.128146993159,40
+target_285,24.8883251847868,66.6924983272124,30
+target_286,24.6483476551041,67.8436071176191,40
+target_287,24.7049165266603,67.4761900960633,170
+target_288,24.7020242304257,67.4849989558466,70
+target_289,24.7047715209073,67.4634950688579,60
+target_290,24.6982167755924,67.4700020192825,90
+target_291,24.6980323793621,67.470818884272,40
+target_292,24.6953301436252,67.4760484626936,50
+target_293,24.6899932444162,67.4912933878134,40
+target_294,24.7596251624211,67.1538867827553,200
+target_295,24.7519504407489,67.1462638998211,80
+target_296,24.7995418047565,67.0037089115796,70
+target_297,24.7640208304418,67.1018486913161,100
+target_298,24.794855387292,67.0479591413135,40
+target_299,24.7922108211787,67.0650230419108,60
+target_300,24.7870306591496,67.0886667733452,50
+target_301,24.77946556601,67.089061164995,80
+target_302,24.7820681454726,67.0649531013082,60
+target_303,24.7776104636483,67.0892926380182,70
+target_304,24.7606653279439,67.0718254230841,90
+target_305,24.802685640597,66.9864435426691,50
+target_306,24.7810707499244,66.9814267532311,130
+target_307,24.8369160636898,66.7930926460583,120
+target_308,24.8359204043635,66.7949061202109,130
+target_309,24.8567444069068,66.606158532836,150
+target_310,24.8516970271613,66.5931545175996,110
+target_311,24.8472053284485,66.5999116153499,280
+target_312,24.847644195195,66.5986408342779,50
+target_313,24.4780147346417,68.6127902165117,50
+target_314,24.6233555943134,67.8569410475108,40
+target_315,24.6882514375775,67.4416926278529,90
+target_316,24.6846080713177,67.4930609837669,70
+target_317,24.7565069260931,67.0699373091722,110
+target_318,24.7502566994326,67.071952062261,240
+target_319,24.7510211132552,67.0729594540137,20
+target_320,24.74865353224,67.0813296772317,90
+target_321,24.7061931276093,67.1900765714034,90
+target_322,24.8323875466914,66.6092104581407,280
+target_323,24.441477012275,68.7072553424025,30
+target_324,24.5346125524906,68.1307301915314,40
+target_325,24.5438308980758,68.0420766188456,80
+target_326,24.611318444405,67.6554952533568,20
+target_327,24.6591012618951,67.4242631327065,30
+target_328,24.6381365972932,67.4440145950912,50
+target_329,24.6310352014942,67.4324743696362,50
+target_330,24.6840014653726,67.1524560860254,100
+target_331,24.7061840129244,67.0621707436086,130
+target_332,24.3949197001973,68.5964850848508,50
+target_333,24.5564200639387,67.7088228493256,70
+target_334,24.6233802386072,67.4145449247721,40
+target_335,24.6207691103615,67.4242099306471,30
+target_336,24.6211828384143,67.4154043440982,40
+target_337,24.6130044042133,67.4293114876693,50
+target_338,24.6108112079136,67.4342896304895,40
+target_339,24.6090803824651,67.4102840760992,40
+target_340,24.6561621501637,67.1773943176468,40
+target_341,24.6121097480134,67.399248628106,50
+target_342,24.6101624043078,67.3989034447286,40
+target_343,24.4252289411123,68.2542190622342,80
+target_344,24.4776636971954,68.115124398246,80
+target_345,24.4887648485818,67.9635869268639,50
+target_346,24.5161991435955,67.7241454070235,80
+target_347,24.5985973814516,67.4063468928427,50
+target_348,24.5806695246473,67.4304710999087,40
+target_349,24.5739987151284,67.461348073535,70
+target_350,24.5684689706877,67.4458110368206,100
+target_351,24.6295746371993,67.1939866170978,70
+target_352,24.6252187734533,67.1991348342403,80
+target_353,24.6234017742831,67.2041413563995,110
+target_354,24.6232071293498,67.1099577069203,130
+target_355,24.6204129514645,67.2233206585829,40
+target_356,24.3369823011067,68.5819914958165,70
+target_357,24.5291424632149,67.5992288282591,40
+target_358,24.565612995018,67.37684448197,70
+target_359,24.5447767540557,67.3624132852266,240
+target_360,24.5771923529821,67.2214086804528,20
+target_361,24.3127999541502,68.6168396757412,30
+target_362,24.3053759520569,68.6390961503891,50
+target_363,24.4847840654847,67.5102250451665,50
+target_364,24.5394641989326,67.3596256905264,100
+target_365,24.2766357875035,68.6252809253578,30
+target_366,24.2701266635706,68.6215830712805,100
+target_367,24.3982101446338,67.9712345373711,80
+target_368,24.4550460782445,67.4691191169693,80
+target_369,24.4732907840242,67.4251842130476,150
+target_370,24.5141713984461,67.2690186697693,180
+target_371,24.514077334995,67.2693006801288,170
+target_372,24.2929248416925,68.3747117994413,90
+target_373,24.4380522530115,67.4106695408062,270
+target_374,24.4335351185328,67.4419498383144,180
+target_375,24.4468598609125,67.2578232355115,200
+target_376,24.4021884637171,67.4545028520722,60
+target_377,24.4328622385016,67.1375990451144,100
+target_378,24.4073282976231,67.306117423611,110
+target_379,24.4067337089979,67.3071499366328,40
+target_380,24.3865336113234,67.2925737728063,60
+target_381,24.3862262620322,67.291909886351,30
+target_382,24.1675092907195,68.4935098913918,30
+target_383,24.2032794450192,68.2501924339845,30
+target_384,24.1948373530736,68.2505718062895,60
+target_385,24.1862598701244,68.2509224215977,20
+target_386,24.2032794450192,68.2501924339845,30
+target_387,24.2259456544941,68.0593145970136,50
+target_388,24.3119343293939,67.6354008449428,200
+target_389,24.3143187689023,67.6132842672591,100
+target_390,24.3636132228503,67.2921345389924,50
+target_391,24.137583478263,68.4504734726086,50
+target_392,24.1995017773667,68.0706770893181,40
+target_393,24.3036168711769,67.5074472846163,50
+target_394,24.1310977771268,68.2399669596752,60
+target_395,24.1449750688514,68.2342185617472,50
+target_396,24.0873250552655,68.2544463341334,50
+target_397,24.1245354606127,68.1939504042765,50
+target_398,24.0223796485744,68.3967065699611,30
+target_399,24.1143067756982,67.9210006058191,60
+target_400,24.1171042269539,67.8632645276147,30
+target_401,24.2332281058114,67.3199648577827,50
+target_402,24.2045448583755,67.4665514567048,110
+target_403,24.2218217550273,67.3431956797313,50
+target_404,23.9920721653431,68.431577345351,20
+target_405,24.041077315122,68.2332514853417,70
+target_406,24.1545477369289,67.4592147610161,50
+target_407,24.1940062217694,67.3514954406811,30
+target_408,24.186961630063,67.3322545840728,40
+target_409,24.1859645960761,67.3340052675746,70
+target_410,24.1732222359794,67.394639116271,30
+target_411,24.1618856722398,67.3896935325839,40
+target_412,24.1786254278183,67.3574478695237,50
+target_413,24.1060146887445,67.538167782311,50
+target_414,24.1567030653794,67.3491655221288,170
+target_415,24.1447472490257,67.3711672949506,110
+target_416,24.1618856722398,67.3896935325839,40
+target_417,24.1536359369084,67.3942790042744,40
+target_418,24.1531116952266,67.3935224705075,100
+target_419,23.9600903248134,68.2179934292775,50
+target_420,24.0010992340568,67.9635130569652,130
+target_421,24.0169001695174,67.8816947705018,200
+target_422,24.1283504818506,67.3688025110394,150
+target_423,23.9489264866945,68.2117608949398,130
+target_424,23.9196785909792,68.1982036190096,50
+target_425,23.9787116160292,67.9173241352069,120
+target_426,23.9992556388609,67.8936097492989,30
+target_427,23.9988464218687,67.89327526593,30
+target_428,23.9978881687373,67.8759742656076,20
+target_429,23.9979883847174,67.8745946907421,50
+target_430,24.0400620225644,67.620312261424,50
+target_431,24.0400620225644,67.620312261424,50
+target_432,24.0897316890846,67.3754970298629,60
+target_433,24.0753275476105,67.4620037043475,240
+target_434,23.9196785909792,68.1982036190096,50
+target_435,23.9624775402488,67.8758225784308,40
+target_436,23.9176411641326,67.8243505896477,90
+target_437,23.7880752539911,68.4057503089908,40
+target_438,23.786512510719,68.396374085553,70
+target_439,23.8471642921026,68.0961006070177,30
+target_440,23.8764696662212,67.8829471480273,70
+target_441,23.9557060092856,67.4914283951199,180
+target_442,23.9503429343497,67.4919319816107,110
+target_443,23.9557060092856,67.4914283951199,180
+target_444,23.819043054024,68.1067148592102,40
+target_445,23.8577784673314,67.9235960914862,30
+target_446,23.8472978827922,67.9308642457227,40
+target_447,23.8389245973553,67.9225793076669,240
+target_448,23.8595302237789,67.8273214951347,210
+target_449,23.8319334853535,67.7438294589558,140
+target_450,23.7744797036574,68.0260182599141,60
+target_451,23.7659699300508,68.0802358462234,60
+target_452,23.8172235742116,67.6908003043338,40
+target_453,23.6386823413896,68.4959437823596,210
+target_454,23.7086661328709,68.1554359668424,110
+target_455,23.7085457075495,68.1542620241507,100
+target_456,23.6997988780951,68.2210882443169,40
+target_457,23.6827062007539,68.2398604897678,40
+target_458,23.7213750068972,68.1128562212212,40
+target_459,23.6191182921533,68.4435075638496,90
+target_460,23.5759454925471,68.4512124105169,30
+target_461,23.5752701352739,68.4523665893296,50
+target_462,23.5752701352739,68.4523665893296,50
+target_463,23.5766563990668,68.2941102603176,70
+target_464,23.519620549208,68.4332137972459,100
+target_465,23.5124304435973,68.4333332940821,30
+target_466,23.4541489246514,68.4053541283,160
+target_467,23.4539515835184,68.4043649028814,40

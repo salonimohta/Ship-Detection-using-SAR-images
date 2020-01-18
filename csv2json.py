@@ -5,10 +5,10 @@ import sys
 
 def convert(loc):
     csvfile = open('./static/'+loc+'shipDetections.csv', 'r')
-    jsonfile = open('./static/predictions.json', 'w')
+    jsonfile = open('./static/'+loc+'predictions.json', 'w')
 
     fieldnames = ("ShipDetections", "Latitude", "Longitude",
-                  "Detected_width", "Detected_length")
+                  "Detected_length")
     reader = csv.DictReader(csvfile, fieldnames)
     count = 0
     jsonfile.write("[")

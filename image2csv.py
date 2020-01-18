@@ -101,4 +101,4 @@ for i in range(34):
     continue
   xc.append((X[i][0]+X[i][1])/2.0)
   yc.append((Y[i][0]+Y[i][1])/2.0)
-  length.append((((X[i][1]-X[i][0])*2)+((Y[i][1]-Y[i][0])2))*(0.5))
+  length.append((((X[i][1]-X[i][0])**2)+((Y[i][1]-Y[i][0])2))**(0.5))
